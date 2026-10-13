@@ -1,0 +1,35 @@
+# Environments & Dependencies
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+node_modules/
+dist/
+.env
+
+# Generated Assets
+generated/
+backend/generated/
+*.db
+*.sqlite3
+
+# Videos & large binaries
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.webm
+*.zip
+
+# Cloned repos
+AI-Content-Studio/
+upstream_repo/
+repo_extracted/
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
